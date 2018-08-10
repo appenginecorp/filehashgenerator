@@ -1,2 +1,2 @@
 # filehashgenerator
-Java file hash generator, recurse directory and generate file md5 hash of all files 
+Java file hash generator, recurse directory and generatemd5 hash of all files 
